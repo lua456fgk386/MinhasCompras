@@ -74,7 +74,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <MauiXaml Update="Views\EditaProduto.xaml">
+      <MauiXaml Update="Views\EditarProduto.xaml">
         <Generator>MSBuild:Compile</Generator>
       </MauiXaml>
       <MauiXaml Update="Views\ListaProduto.xaml">
